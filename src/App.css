@@ -35,19 +35,19 @@
 
 @keyframes background {
     25% {
-        background-image: url(/img-2.jpg);
+        background-image: url(./assets/img-2.jpg);
     }
 
     50% {
-        background-image: url(/img-3.jpg);
+        background-image: url(./assets/img-3.jpg);
     }
 
     75% {
-        background-image: url(/img-4.jpg);
+        background-image: url(./assets/img-4.jpg);
     }
 
     100% {
-        background-image: url(/img-1.jpg);
+        background-image: url(./assets/img-1.jpg);
     }
 }
 
