@@ -1,0 +1,46 @@
+/* --- Reset --- */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;300;400;500;600;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #202329;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button {
+    display: block;
+    border: none;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+input {
+    outline: none;
+}
+
+span {
+    display: block;
+}
